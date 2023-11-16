@@ -3,6 +3,7 @@
 /**
 * main - primary application that perpetually reads CLI input data and runs
 * @argn: details of arguments
+* @argm: arguments passed to the program
 * Return: Always 0 on success
 */
 
